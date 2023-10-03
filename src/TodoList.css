@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(197, 76, 65);
+}
+
+.todo {
+    font-weight: bold;
+    color: lightgrey;
+}
